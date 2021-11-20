@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "127952462237",
+    "project_id": "signintest-340a5",
+    "storage_bucket": "signintest-340a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127952462237:android:0d9bc90798d0e32122cf74",
+        "android_client_info": {
+          "package_name": "com.googlemaptracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127952462237-2ks04aknt7jdnt7oo6pk6lrqa9anfk11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.googlemaptracking",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "127952462237-pih04t9rmhaeodnm5qpov505v1nthcrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFVFu9TR6rHfZQS0pNzIzD4gWQoQqkIoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127952462237-pih04t9rmhaeodnm5qpov505v1nthcrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
